@@ -1,0 +1,14 @@
+name: browser-extension
+id: ari:cloud:compass:1051b516-7af4-47f5-9157-912549a8adef:component/f21c7ce4-c402-48e4-8dd8-7e9eb713fe26/63cb0919-5392-42cf-b991-e60ed2cd3298
+description: Browser extension for quickly adding albums to Digs.fm lists
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - language:javascript
+  - source:github
+customFields: null
